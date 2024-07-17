@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+    
+    
+    background-color: aqua;
+    color:white
+}
+
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    background-color: bisque;
+    color: white;
+}
+.center{
+    display: inline-block;
+}
